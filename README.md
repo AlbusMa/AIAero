@@ -36,5 +36,6 @@ For more information, collaboration opportunities, or to get involved, please re
 
 ## Acknowledgments
 
-XFLUIDS has received financial support from the following fundings:
+AIAero project has received financial support from the following fundings:
+
 The National Natural Science Foundation of China (Grant No. 92152301)
